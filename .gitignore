@@ -2,6 +2,7 @@
 *.lock
 *.json
 *.dat_old
+*DS_Store
 
 */data/
 */DIM-1/
