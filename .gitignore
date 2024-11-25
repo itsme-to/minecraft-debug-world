@@ -1,5 +1,13 @@
-
 *.png
-*.dat
 *.lock
 *.json
+*.dat_old
+
+*/data/
+*/DIM-1/
+*/DIM1/
+*/playerdata/
+*/stats/
+*/entities/
+*/advancements/
+*/datapacks/
